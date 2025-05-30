@@ -1,0 +1,7 @@
+Hello welcome to docker learning
+
+Download and install Docker desktop and set up on your local computer.
+
+------Docker commands------
+docker images --> to view all the images in you local host.
+docker ps --> to view all the container present in the local host.
